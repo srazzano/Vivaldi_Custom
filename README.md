@@ -10,6 +10,5 @@ Options:
 5. Creates button to toggle Tabbar from top position of header to bottom position in header.
 6. Creates button to activate clicked/active tab to first position in tabbar.
 7. Creates button to reload header elements to refresh user settings.
-8. Rearranges all toolbars to desired positions.
-9. Position Extensions to their own toolbar or combine with statusbar toolbar.
-10. Refer to How-To text file for full instructions.
+8. Rearranges toolbars to desired positions.
+9. Refer to How-To text file for full instructions.
