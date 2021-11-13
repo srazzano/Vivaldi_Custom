@@ -10,7 +10,7 @@ Description:
 5. Option for larger tab close button.
 6. Display site favicon in urlbar.
 7. Replace bookmark folder icon with custom icon [ <img src="https://github.com/srazzano/Images/blob/master/folderIcon.png"/> ].
-8. Home as restart browser function. See tooltip for instructions.
+8. Home as restart browser function with restart icon [ <img src="https://github.com/srazzano/Images/blob/master/restartIcon.png"/> ]. See tooltip for instructions.
 9. Move active/clicked tab to first position in tabbar.
 10. Display a custom spinner (3 styles). See tooltip for adding others.
 11. Toggle tabbar from/to top/bottom in header. When tabbar on bottom, statusbar displays on top to preserve header vertical height.
