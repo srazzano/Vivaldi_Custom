@@ -12,7 +12,7 @@ Options:
 7. Display custom folder icon for bookmark follders.
 8. Home as restart browser function. See How-To.txt fill for instructions.
 9. Move active/clicked tab to first position in tabbar.
-10. Display a custom spinner (3 styles).
+10. Display a custom spinner (3 styles). Manually edit in script.
 11. Toggle tabbar from/to top/bottom in header. When tabbar on bottom, statusbar displays on top to optimize header vertical height.
 12. Creates button to reload header elements to refresh user settings.
 13. Rearranges toolbars to desired positions from within script.
