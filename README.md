@@ -4,7 +4,7 @@ Un-zip vivaldi-custom.zip into newly created folder (recommended) or use existin
 
 Description:
 1. Creates js & css files for theming/functionality of browser ui.
-2. Installs a bat file to auto-insert edits/changes made to user files into Vivaldi Browser app. Need to enter your profile user name between the quotes after $username of the 3rd line in vivaldi-custom.bat file.
+2. Installs a bat file to auto-insert edits/changes made to js and css files into Vivaldi Browser app. Need to enter your profile user name between the quotes after $username of the 3rd line in vivaldi-custom.bat file.
 3. Creates button [ <img src="https://github.com/srazzano/Images/blob/master/optionsMenuButton.png"/> ] in statusbar to display Options Menu with close button. Shows menu under header when activated.
 4. Displays button popup with arrow box style.
 5. Option for larger tab close button.
