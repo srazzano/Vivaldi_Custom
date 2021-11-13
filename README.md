@@ -12,7 +12,7 @@ Description:
 7. Replace bookmark folder icon with custom icon [ <img src="https://github.com/srazzano/Images/blob/master/folderIcon.png"/> ].
 8. Home as restart browser function with restart icon [ <img src="https://github.com/srazzano/Images/blob/master/restartIcon.png"/> ]. See tooltip for instructions.
 9. Move active/clicked tab to first position in tabbar.
-10. Display a custom spinner (3 styles). See tooltip for adding others. <img src="https://github.com/srazzano/Images/blob/master/spinner1.png"/> <img src="https://github.com/srazzano/Images/blob/master/spinner2.gif"/> <img src="https://github.com/srazzano/Images/blob/master/spinner3.gif"/>
+10. Display a custom spinner (3 styles). See tooltip for adding others. spinner1 <img src="https://github.com/srazzano/Images/blob/master/spinner1.png"/> spinner2 <img src="https://github.com/srazzano/Images/blob/master/spinner2.gif"/> spinner3 <img src="https://github.com/srazzano/Images/blob/master/spinner3.gif"/>
 11. Toggle tabbar from/to top/bottom in header. When tabbar on bottom, statusbar displays on top to preserve header vertical height.
 12. Creates button [ <img src="https://github.com/srazzano/Images/blob/master/reloadHeader.png"/> ] to reload header elements to refresh user settings. Displays in toolbar-mainbar.
 13. Rearranges toolbars to desired positions. Edit first const line in vivaldi-custom.js file.
