@@ -9,7 +9,7 @@ Description:
 4. Displays button popup with arrow box style.
 5. Option for larger tab close button.
 6. Display site favicon in urlbar.
-7. Replace bookmark folder icon with custom icon.
+7. Replace bookmark folder icon with custom icon [ <img src="https://github.com/srazzano/Images/blob/master/folderIcon.png"/> ].
 8. Home as restart browser function. See tooltip for instructions.
 9. Move active/clicked tab to first position in tabbar.
 10. Display a custom spinner (3 styles). See tooltip for adding others.
