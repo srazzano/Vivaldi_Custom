@@ -5,7 +5,7 @@ Un-zip vivaldi-custom.zip into newly created folder (recommended) or use existin
 Options:
 1. Creates js & css files for theming/functionality of browser ui.
 2. Installs a bat file to auto-insert edits/changes made to user files into Vivaldi Browser app.
-3. Creates button [ <img src="https://github.com/srazzano/Images/blob/master/optionsMenuButton.png"/> ] in statusbar to display Options Menu with close button. Shows under header when activated.
+3. Creates button [ <img src="https://github.com/srazzano/Images/blob/master/optionsMenuButton.png"/> ] in statusbar to display Options Menu with close button. Shows menu under header when activated.
 4. Displays button popup with arrow box style.
 5. Option for larger tab close button.
 6. Display site favicon in urlbar.
