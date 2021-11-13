@@ -14,7 +14,7 @@ Options:
 9. Move active/clicked tab to first position in tabbar.
 10. Display a custom spinner (3 styles). Manually edit in script.
 11. Toggle tabbar from/to top/bottom in header. When tabbar on bottom, statusbar displays on top to optimize header vertical height.
-12. Creates button [ <img src="https://github.com/srazzano/Images/blob/master/reloadHeader.png"/> ]to reload header elements to refresh user settings.
+12. Creates button [ <img src="https://github.com/srazzano/Images/blob/master/reloadHeader.png"/> ]to reload header elements to refresh user settings in toolbar-mainbar.
 13. Rearranges toolbars to desired positions from within script.
 14. Refer to How-To.txt file for full instructions.
 
