@@ -15,4 +15,5 @@ Options:
 10. Refer to How-To.txt file for full instructions.
 
 Options Menu
+
 <img src="https://github.com/srazzano/Images/blob/master/optionsMenu.png"/>
