@@ -2,7 +2,7 @@ Direct download: https://github.com/srazzano/Vivaldi_Custom/raw/main/vivaldi-cus
 
 Un-zip vivaldi-custom.zip into newly created folder (recommended) or use existing folder, but the files need to remain together. DO NOT rename the files. Click the installed .bat file to load created files into browser app. Follow the simple instructions in the How-To.txt file.
 
-Desription:
+Description:
 1. Creates js & css files for theming/functionality of browser ui.
 2. Installs a bat file to auto-insert edits/changes made to user files into Vivaldi Browser app. Need to enter your profile user name between the quotes after $username of the 3rd line in vivaldi-custom.bat file.
 3. Creates button [ <img src="https://github.com/srazzano/Images/blob/master/optionsMenuButton.png"/> ] in statusbar to display Options Menu with close button. Shows menu under header when activated.
