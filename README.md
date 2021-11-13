@@ -15,7 +15,7 @@ Options:
 10. Display a custom spinner (3 styles). See tooltip for adding others.
 11. Toggle tabbar from/to top/bottom in header. When tabbar on bottom, statusbar displays on top to preserve header vertical height.
 12. Creates button [ <img src="https://github.com/srazzano/Images/blob/master/reloadHeader.png"/> ] to reload header elements to refresh user settings. Displays in toolbar-mainbar.
-13. Rearranges toolbars to desired positions from within script.
+13. Rearranges toolbars to desired positions. Edit first const line in vivaldi-custom.js file.
 14. Refer to How-To.txt file for full instructions.
 
 Options Menu
