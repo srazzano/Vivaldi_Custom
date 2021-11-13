@@ -13,3 +13,5 @@ Options:
 8. Creates button to reload header elements to refresh user settings.
 9. Rearranges toolbars to desired positions from within script.
 10. Refer to How-To.txt file for full instructions.
+
+<img src="https://github.com/srazzano/Images/blob/master/optionsMenu.png"/>
