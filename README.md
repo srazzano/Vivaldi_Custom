@@ -5,14 +5,18 @@ Un-zip vivaldi-custom.zip into newly created folder (recommended) or use existin
 Options:
 1. Creates js & css files for theming/functionality of browser ui.
 2. Installs a bat file to auto-insert edits/changes made to user files into Vivaldi Browser app.
-3. Turns Home button into Restart Browser function. Draggable to footer/statusbar.
-4. Places site favicon into urlbar.
-5. Toggle Tabbar from top position in header to bottom position in header.
-6. When tabbar on bottom, statusbar displays on top to optimize header vertical height.
-7. Activate clicked/active tab to first position in tabbar.
-8. Creates button to reload header elements to refresh user settings.
-9. Rearranges toolbars to desired positions from within script.
-10. Refer to How-To.txt file for full instructions.
+3. Creates button to display Options Menu.
+4. Displays button popup with arrow box style.
+5. Option for larger tab close button.
+6. Display site favicon in urlbar.
+7. Display custom folder icon for bookmark follders.
+8. Home as restart browser function. See How-To.txt fill for instructions.
+9. Move active/clicked tab to first position in tabbar.
+10. Display a custom spinner (3 styles).
+11. Toggle tabbar from/to top/bottom in header. When tabbar on bottom, statusbar displays on top to optimize header vertical height.
+12. Creates button to reload header elements to refresh user settings.
+13. Rearranges toolbars to desired positions from within script.
+14. Refer to How-To.txt file for full instructions.
 
 Options Menu
 
