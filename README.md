@@ -18,6 +18,4 @@ Description:
 13. Rearranges toolbars to desired positions.
 14. Refer to How-To.txt file for full instructions.
 
-Options Menu
-
 <img src="https://github.com/srazzano/Images/blob/master/optionsMenu.png"/>
