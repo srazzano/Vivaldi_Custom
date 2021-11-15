@@ -15,7 +15,7 @@ Description:
 10. Display a custom spinner (3 styles). 1 <img src="https://github.com/srazzano/Images/blob/master/spinner1.png"/> 2 <img src="https://github.com/srazzano/Images/blob/master/spinner2.gif"/> 3 <img src="https://github.com/srazzano/Images/blob/master/spinner3.gif"/>
 11. Toggle tabbar from/to top/bottom in header. When tabbar on bottom, footer displays on top to preserve header vertical height.
 12. Creates button [ <img src="https://github.com/srazzano/Images/blob/master/reloadHeader.png"/> ] to reload header elements to refresh user settings. Displays in toolbar-mainbar.
-13. Rearranges toolbars to desired positions.
+13. Rearranges footer, .bookmark-bar and .UrlBar toolbars to desired positions.
 14. Refer to How-To.txt file for full instructions.
 
 <img src="https://github.com/srazzano/Images/blob/master/optionsMenu.png"/>
