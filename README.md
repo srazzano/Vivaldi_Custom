@@ -16,7 +16,7 @@ Description:
 11. Toggle tabbar from/to top/bottom in header. When tabbar on bottom, footer displays on top to preserve header vertical height.
 12. Creates button [ <img src="https://github.com/srazzano/Images/blob/master/reloadHeader.png"/> ] to reload header elements to refresh user settings. Displays in toolbar-mainbar.
 13. Rearranges footer, .bookmark-bar and .UrlBar toolbars to desired positions.
-14. Reposition menu to Tpo Left, Top Ceneter, Top Right, Centered <img src="https://github.com/srazzano/Images/blob/master/position.png"/>
+14. Reposition menu to Tpo Left, Top Ceneter, Top Right, Centered [ <img src="https://github.com/srazzano/Images/blob/master/position.png"/> ]
 15. Refer to How-To.txt file for full instructions.
 
 <img src="https://github.com/srazzano/Images/blob/master/optionsMenu.png"/>
