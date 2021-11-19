@@ -20,4 +20,4 @@ Description:
 15. Reposition menu to Tpo Left, Top Ceneter, Top Right, Centered [ <img src="https://github.com/srazzano/Images/blob/master/position.png"/> ]
 16. Refer to How-To.txt file for full instructions.
 
-<img src="https://github.com/srazzano/Images/blob/master/optionsMenu1.png"/>
+<img src="https://github.com/srazzano/Images/blob/master/optionsMenu.png"/>
